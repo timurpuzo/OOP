@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7509e7c3-41f3-4235-8bec-05e0dc7c43fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/DataStructures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/TaskItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/week4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/week5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week3/DataStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/DataStructures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +45,7 @@
     &quot;Application.week4 (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.week4 (2).executor&quot;: &quot;Run&quot;,
     &quot;Application.week4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week5.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -59,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task2">
+  <component name="RunManager" selected="Application.week5">
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.week4.Person" />
       <module name="oop-labs" />
@@ -99,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week4.week4" />
-      <module name="oop-labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="week4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.week4.week4" />
       <module name="oop-labs" />
@@ -125,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="week5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week5.week5" />
+      <module name="oop-labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week5" />
         <item itemvalue="Application.task2" />
         <item itemvalue="Application.week4" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.week4 (1)" />
-        <item itemvalue="Application.week4 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -171,11 +172,29 @@
       <workItem from="1729620858363" duration="2318000" />
       <workItem from="1729800583031" duration="197000" />
       <workItem from="1729975223803" duration="275000" />
+      <workItem from="1730128137005" duration="986000" />
+      <workItem from="1730144216039" duration="5724000" />
+      <workItem from="1730231411619" duration="2578000" />
+      <workItem from="1730376817500" duration="2123000" />
+      <workItem from="1730401276719" duration="7731000" />
+      <workItem from="1730496318199" duration="1927000" />
+      <workItem from="1730585180403" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
