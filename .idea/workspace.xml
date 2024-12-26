@@ -5,12 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7509e7c3-41f3-4235-8bec-05e0dc7c43fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/week5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise1/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise1/PromissoryNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise1/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise1/Vjezba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise3/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercise3/students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercises/FillType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercises/Vjezba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exercises/Vjezba1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MidtermPreparation/CuisineType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MidtermPreparation/MidtermPreparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/FourthTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/ThirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week11/EmptyStudentListException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week11/StudentManagmentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week11/students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week12/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week13/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week13/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week13/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week13/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week13/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week13/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/BookTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/week6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/week7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/week11/StudentSystemTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week3/DataStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/DataStructures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +48,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Record" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -37,36 +67,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week4 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.week4 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.week4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/timur/IdeaProjects/oop-labs/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BookTask.executor": "Run",
+    "Application.ChatApplication.executor": "Run",
+    "Application.FirstTask.executor": "Run",
+    "Application.FourthTask.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.StudentManagmentSystem.executor": "Run",
+    "Application.StudentSystem.executor": "Run",
+    "Application.Task.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Tasks.executor": "Run",
+    "Application.Vjezba.executor": "Run",
+    "Application.Vjezba1.executor": "Run",
+    "Application.drugiTask.executor": "Run",
+    "Application.lectures.executor": "Run",
+    "Application.prviTask.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task5.executor": "Run",
+    "Application.vjezba.executor": "Run",
+    "Application.week2.executor": "Run",
+    "Application.week4 (1).executor": "Run",
+    "Application.week4 (2).executor": "Run",
+    "Application.week4.executor": "Run",
+    "Application.week5.executor": "Run",
+    "Application.week6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/timur/IdeaProjects/oop-labs/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.week5">
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week4.Person" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.week11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChatApplication">
+    <configuration name="BookTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week6.BookTask" />
       <module name="oop-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week4.*" />
+          <option name="PATTERN" value="org.example.week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week4.task2" />
+    <configuration name="ChatApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week12.ChatApplication" />
       <module name="oop-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week4.*" />
+          <option name="PATTERN" value="org.example.week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week4.week4" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week12.Task" />
       <module name="oop-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week4.*" />
+          <option name="PATTERN" value="org.example.week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week4.week4" />
+    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Exercise3.Tasks" />
       <module name="oop-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week4.*" />
+          <option name="PATTERN" value="org.example.Exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week5.week5" />
+    <configuration name="vjezba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week6.vjezba" />
       <module name="oop-labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week5.*" />
+          <option name="PATTERN" value="org.example.week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.week5" />
-        <item itemvalue="Application.task2" />
-        <item itemvalue="Application.week4" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.week4 (1)" />
+        <item itemvalue="Application.ChatApplication" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Tasks" />
+        <item itemvalue="Application.BookTask" />
+        <item itemvalue="Application.vjezba" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +239,39 @@
       <workItem from="1730401276719" duration="7731000" />
       <workItem from="1730496318199" duration="1927000" />
       <workItem from="1730585180403" duration="2207000" />
+      <workItem from="1730660075259" duration="36000" />
+      <workItem from="1730661833666" duration="109000" />
+      <workItem from="1730730691880" duration="3117000" />
+      <workItem from="1730749362425" duration="1253000" />
+      <workItem from="1730811403797" duration="1377000" />
+      <workItem from="1730915251106" duration="599000" />
+      <workItem from="1731195867751" duration="769000" />
+      <workItem from="1731244231646" duration="3247000" />
+      <workItem from="1731254122946" duration="1371000" />
+      <workItem from="1731521047572" duration="83000" />
+      <workItem from="1731522529787" duration="4666000" />
+      <workItem from="1731615399612" duration="2207000" />
+      <workItem from="1731765507392" duration="3499000" />
+      <workItem from="1731930559659" duration="67000" />
+      <workItem from="1731953686270" duration="5999000" />
+      <workItem from="1732008825899" duration="980000" />
+      <workItem from="1733245414808" duration="2734000" />
+      <workItem from="1733587187465" duration="2788000" />
+      <workItem from="1733754387734" duration="7814000" />
+      <workItem from="1733785893800" duration="2702000" />
+      <workItem from="1733940744890" duration="2462000" />
+      <workItem from="1733944676188" duration="2850000" />
+      <workItem from="1733954866375" duration="2880000" />
+      <workItem from="1734026442090" duration="6781000" />
+      <workItem from="1734182216946" duration="4145000" />
+      <workItem from="1734263284373" duration="5119000" />
+      <workItem from="1734277845512" duration="2036000" />
+      <workItem from="1734291663307" duration="4768000" />
+      <workItem from="1734457866288" duration="1448000" />
+      <workItem from="1734529788304" duration="3631000" />
+      <workItem from="1734984765515" duration="7295000" />
+      <workItem from="1735033081205" duration="58000" />
+      <workItem from="1735067427978" duration="4057000" />
     </task>
     <servers />
   </component>
